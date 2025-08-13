@@ -32,5 +32,16 @@
       "1": "owner"
     },
     "topic": ""
+  },
+  "Codebase": {
+    "channels": [
+      "general.json",
+      "random.json",
+      "announcements.json"
+    ],
+    "roles": {
+      "codebase": "owner"
+    },
+    "topic": ""
   }
 }
