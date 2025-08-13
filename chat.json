@@ -2,5 +2,9 @@
   {
     "user": "User1",
     "message": "hello"
+  },
+  {
+    "user": "User2",
+    "message": "hi"
   }
 ]
