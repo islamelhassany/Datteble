@@ -37,7 +37,8 @@
     "channels": [
       "general.json",
       "random.json",
-      "announcements.json"
+      "announcements.json",
+      "Codebase_Codebase.json"
     ],
     "roles": {
       "codebase": "owner"
