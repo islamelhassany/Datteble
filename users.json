@@ -9,5 +9,12 @@
   "2": {
     "password": "2",
     "last_active": "2025-08-13 17:57:06"
+  },
+  "codebase": {
+    "password": "201021",
+    "avatar": "",
+    "status": "online",
+    "last_active": "2025-08-13 21:31:04",
+    "theme": "dark"
   }
 }
