@@ -3,7 +3,11 @@
     "user": "1",
     "message": "hello",
     "timestamp": "2025-08-13 18:30:49",
-    "reactions": {},
+    "reactions": {
+      "\ud83d\udc4d": [
+        "1"
+      ]
+    },
     "pinned": false,
     "threads": []
   }
