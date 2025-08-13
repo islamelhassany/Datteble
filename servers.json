@@ -1,1 +1,13 @@
-{}
+{
+  "DefaultServer": {
+    "channels": [
+      "general.json",
+      "random.json",
+      "announcements.json"
+    ],
+    "roles": {
+      "1": "owner"
+    },
+    "topic": ""
+  }
+}
