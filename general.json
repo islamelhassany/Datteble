@@ -42,5 +42,13 @@
     "message": "hello ?",
     "timestamp": "2025-08-13 17:57:56",
     "reactions": {}
+  },
+  {
+    "user": "Kernel",
+    "message": "hi",
+    "timestamp": "2025-08-13 21:34:47",
+    "reactions": {},
+    "pinned": false,
+    "threads": []
   }
 ]
