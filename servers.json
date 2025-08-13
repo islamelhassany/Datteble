@@ -25,7 +25,8 @@
     "channels": [
       "general.json",
       "random.json",
-      "announcements.json"
+      "announcements.json",
+      "popo_free.json"
     ],
     "roles": {
       "1": "owner"
